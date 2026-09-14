@@ -1,0 +1,10 @@
+# <type>(<scope>): <subject>
+#
+# type:    feat fix docs style refactor chore
+# scope:   header theme layout readme config   (optional)
+# subject: imperative, lowercase, no period, ~50 chars
+#
+# Blank line, then body: what changed and why.
+# Footer: Closes #123
+#
+# Full rules: CONTRIBUTING.md
