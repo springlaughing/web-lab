@@ -4,11 +4,6 @@ body {
   padding: 2rem;
   background: #f6f8fa;
 }
-header {
-  background: #24292f;
-  padding: 1rem 2rem;
-  margin: -2rem -2rem 2rem;
-}
 
 nav {
   display: flex;
