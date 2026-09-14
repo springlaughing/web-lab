@@ -131,6 +131,15 @@ changed and why** — not how, since the diff already shows that:
 
 ---
 
+## Setup (once, after cloning)
+
+```bash
+git config commit.template .gitmessage
+```
+
+Loads the commit template into your editor. Git doesn't carry this setting
+across clones, so each person runs it themselves.
+
 ## First change, start to finish
 
 ```bash
